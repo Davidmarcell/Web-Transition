@@ -1,7 +1,7 @@
 import BezierEasing from 'bezier-easing';
 
 // Circle animation duration
-const DURATION = 600;
+const DURATION = 300;
 
 // Starting radius
 const MIN_RADIUS = 10;

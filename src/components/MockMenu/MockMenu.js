@@ -91,16 +91,16 @@ const MockMenu = props => {
                             <MenuItem delay={50} in={props.show}>
                                 THE BALVENIE
                             </MenuItem>
-                            <MenuItem delay={100} in={props.show}>
+                            <MenuItem delay={90} in={props.show}>
                                 Ford Ecosport
                             </MenuItem>
-                            <MenuItem delay={150} in={props.show}>
+                            <MenuItem delay={140} in={props.show}>
                                 Mr. Robot
                             </MenuItem>
-                            <MenuItem delay={200} in={props.show}>
+                            <MenuItem delay={180} in={props.show}>
                                 Snapchat Twilight
                             </MenuItem>
-                            <MenuItem delay={250} in={props.show} onEntered={onEntered}>
+                            <MenuItem delay={220} in={props.show} onEntered={onEntered}>
                                 The Handmaid’s Tale
                             </MenuItem>
                         </MenuItems>;

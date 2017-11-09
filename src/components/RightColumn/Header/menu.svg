@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="385px" height="193px" viewBox="0 0 385 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" fill-rule="nonzero" fill="#FFFFFF">
+            <g transform="translate(192.500000, 96.500000) scale(-1, 1) translate(-192.500000, -96.500000) " id="Shape">
+                <path d="M12.03,24.303 L372.939,24.303 C379.58,24.303 384.969,18.913 384.969,12.273 C384.969,5.632 379.579,0.243 372.939,0.243 L12.03,0.243 C5.389,0.243 0,5.633 0,12.273 C0,18.913 5.39,24.303 12.03,24.303 Z"></path>
+                <path d="M372.939,84.455 L12.03,84.455 C5.389,84.455 0,89.845 0,96.485 C0,103.125 5.39,108.515 12.03,108.515 L372.939,108.515 C379.58,108.515 384.969,103.125 384.969,96.485 C384.969,89.845 379.58,84.455 372.939,84.455 Z"></path>
+                <path d="M372.939,168.667 L132.333,168.667 C125.692,168.667 120.303,174.057 120.303,180.697 C120.303,187.338 125.693,192.727 132.333,192.727 L372.939,192.727 C379.58,192.727 384.969,187.337 384.969,180.697 C384.97,174.056 379.58,168.667 372.939,168.667 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

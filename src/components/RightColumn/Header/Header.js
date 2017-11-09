@@ -24,7 +24,7 @@ const Menu = ({ className }) => (
     <Container className={className}>
         <HeaderItem active>Work</HeaderItem>
         <HeaderItem delay={400} duration={600}>
-            News
+            Do Good
         </HeaderItem>
         <HeaderItem delay={500} duration={600}>
             About
